@@ -17,7 +17,7 @@ The following diagram illustrates the electronic interconnection and data flow b
 
 ### Component Diagram
 
-![Component Diagram]()
+![Component Diagram](https://github.com/aghidalgo04/DistribuidorFitonutrientesNPK/blob/main/imgs/ComponentDiagram.jpg)
 
 **Diagram Description:** This schematic shows the wiring between the ESP32 and the AS7265x Spectral Triad via the I2C bus. It also details the connection of the DFRobot EC sensor to the analog-to-digital converter (ADC) pins and the status LEDs used for local alerts.
 
@@ -27,7 +27,7 @@ The hardware is housed in a controlled environment (dark box) to minimize interf
 
 ### Final Hardware Photo
 
-![Hadware]()
+![Hadware](https://github.com/aghidalgo04/DistribuidorFitonutrientesNPK/blob/main/imgs/HadwareNPK.jpg)
 
 **Photo Description:** The prototype features an ESP32 mounted on a breadboard, connected to the AS7265x sensor and the EC probe submerged in a sample container. The setup includes status LEDs that toggle based on the detected concentration of nutrients.
 
