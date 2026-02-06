@@ -17,7 +17,7 @@ The following diagram illustrates the electronic interconnection and data flow b
 
 ### Component Diagram
 
-![Component Diagram](https://github.com/aghidalgo04/DistribuidorFitonutrientesNPK/blob/main/imgs/ComponentDiagram.jpg)
+![Component Diagram](https://github.com/aghidalgo04/DistribuidorFitonutrientesNPK/blob/main/imgs/ComponentDiagram.png)
 
 **Diagram Description:** This schematic shows the wiring between the ESP32 and the AS7265x Spectral Triad via the I2C bus. It also details the connection of the DFRobot EC sensor to the analog-to-digital converter (ADC) pins and the status LEDs used for local alerts.
 
